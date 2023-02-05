@@ -11,6 +11,8 @@ This app uses the CPU / Processor to heat up the device.
 * Flutter
 * Java
 
+![iphone screenshot](assets/iphone_screenshot.png "Screenshot iphone")
+
 ## Flutter Getting Started
 
 This project is a starting point for a Flutter application.
