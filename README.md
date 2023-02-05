@@ -5,6 +5,12 @@ Heat up your device.
 Keep your hands warm.
 This app uses the CPU / Processor to heat up the device.
 
+# Environment
+* IntelliJ IDEA
+* Android Studio
+* Flutter
+* Java
+
 ## Flutter Getting Started
 
 This project is a starting point for a Flutter application.
