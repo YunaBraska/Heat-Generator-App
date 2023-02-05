@@ -18,7 +18,7 @@ This app uses the CPU / Processor to heat up the device.
 
 > **Note**
 > Apple Review got rejects this app cause of: "Please remove any feature that may result in damaging the user’s
-> device. I wonder why iOS Games gets accepted..."
+> device." I wonder why iOS Games gets accepted...
 
 1) Folder \[APP ROOT FOLDER\]: `flutter build ipa --obfuscate --split-debug-info --build-number=1.0.0+4`
 2) Install and open the Apple [Transport macOS app](https://apps.apple.com/us/app/transporter/id1450874784). Drag and
