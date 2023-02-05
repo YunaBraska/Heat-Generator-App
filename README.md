@@ -24,7 +24,7 @@ This app uses the CPU / Processor to heat up the device.
 2) Install and open the Apple [Transport macOS app](https://apps.apple.com/us/app/transporter/id1450874784). Drag and
    drop the build/ios/ipa/*.ipa app bundle into the app. and click on Deliver`
 
-### iOS Release
+### Android Release
 
 > **Note**
 > Google Review got rejects this app cause of: "Reflections on you ID card" - well the reflections are security signs on
